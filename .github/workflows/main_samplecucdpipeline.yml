@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'samplecucdpipeline'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4F45BDE78894BED834DE65E4D66E55C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_85AF5BE5B568476AA81FB5E66A55C4B3 }}
           package: .
