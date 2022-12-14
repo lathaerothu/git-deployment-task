@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0597551f-056e-4235-93f6-4a793b765ee3/AppServices/subscriptions/0597551f-056e-4235-93f6-4a793b765ee3/resourceGroups/Test/providers/Microsoft.Web/sites/samplecucdpipeline",
+    "appService.deploySubpath": "."
+}
